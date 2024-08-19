@@ -1,0 +1,32 @@
+/* Element Selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #c13f3f;
+}
+
+/* Class Selector */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ID Selector */
+#header {
+    background-color: #4CAF50;
+    color: rgb(71, 178, 63);
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    color: #884747;
+}
+
+#test {
+    background-color: #4128df;
+    padding: 15px;
+    border-radius: 5px;
+}
